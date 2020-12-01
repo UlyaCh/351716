@@ -1,1 +1,2 @@
 *.tmp
+log/some23.tmp
